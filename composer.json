@@ -1,5 +1,6 @@
 {
   "require": {
+    "php": ">=7.2",
     "doctrine/orm": "^2.6",
     "doctrine/annotations": "^1.6",
     "doctrine/persistence": "^1.0"
